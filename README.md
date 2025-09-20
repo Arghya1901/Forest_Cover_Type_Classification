@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="ForestCover.jpg" alt="Forest Cover Classification Output" width="600"/>
+  <img src="ForestCoverType.png" alt="Forest Cover Classification Output" width="600"/>
 </p>
 
 # 🌲 **FOREST COVER TYPE CLASSIFICATION**
-
----
 
 ## 🧾 **PROJECT DESCRIPTION**
 *Classify forest cover types based on cartographic variables using Machine Learning.* 🌍  
